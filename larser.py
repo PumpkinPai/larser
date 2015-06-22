@@ -41,7 +41,7 @@ def fileChooser(filetype):
 
 
 if __name__ == '__main__':
-    confFilename = 'defaukt.yaml'
+    confFilename = 'default.yaml'
 
     # todo Set source file from sys arg
     sourceFilename = 'temp.jpg'
